@@ -1,0 +1,7 @@
+C:\mphasis-B2\project-3\ConAppProject-3\ConAppProject-3\bin\Debug\ConAppProject-3.exe.config
+C:\mphasis-B2\project-3\ConAppProject-3\ConAppProject-3\bin\Debug\ConAppProject-3.exe
+C:\mphasis-B2\project-3\ConAppProject-3\ConAppProject-3\bin\Debug\ConAppProject-3.pdb
+C:\mphasis-B2\project-3\ConAppProject-3\ConAppProject-3\obj\Debug\ConAppProject-3.csproj.AssemblyReference.cache
+C:\mphasis-B2\project-3\ConAppProject-3\ConAppProject-3\obj\Debug\ConAppProject-3.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\project-3\ConAppProject-3\ConAppProject-3\obj\Debug\ConAppProject-3.exe
+C:\mphasis-B2\project-3\ConAppProject-3\ConAppProject-3\obj\Debug\ConAppProject-3.pdb

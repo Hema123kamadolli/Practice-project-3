@@ -1,0 +1,15 @@
+Name,Class
+Aishwarya,Class A
+Vikas,Class B
+Deepa,Class C
+Zubia,Class D
+Chinmay,Class C
+Faran,Class B
+Harshad,Class A
+Ganesh,Class C
+Ishani,Class D
+Kiran,Class B
+Manisha,Class A
+Omkar,Class D
+Laxmi,Class C
+Shivani,Class B
